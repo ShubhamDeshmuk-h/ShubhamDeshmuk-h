@@ -50,17 +50,17 @@
 
 | Project | Description |
 |--------|-------------|
-| [TourSmart](https://github.com/shubham-deshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
-| [ai-code-helper](https://github.com/shubham-deshmuk-h/ai-code-helper) | 🤖 AI tool to help developers generate code |
-| [portfolio](https://github.com/shubham-deshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
-| [Stegno_project](https://github.com/shubham-deshmuk-h/Stegno_project) | 🔐 Hide text in images using Python steganography |
-| [Training_program_Machine_learning](https://github.com/shubham-deshmuk-h/Training_program_Machine_learning) | 📚 ML learnings from internship |
-| [Speech2Text](https://github.com/shubham-deshmuk-h/Speech2Text) | 🎙️ Transcribes speech to text using browser speech API |
-| [portscanner](https://github.com/shubham-deshmuk-h/portscanner) | 🛡️ Python port scanning script |
-| [ML-for-cyber-attract-detection-using-rules](https://github.com/shubham-deshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
-| [DSA_practice](https://github.com/shubham-deshmuk-h/DSA_practice) | 💡 DSA questions in C++, Java, Python |
+| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
+| [ai-code-helper](https://github.com/ShubhamDeshmuk-h/ai-code-helper) | 🤖 AI tool to help developers generate code |
+| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
+| [Stegno_project](https://github.com/ShubhamDeshmuk-h/Stegno_project) | 🔐 Hide text in images using Python steganography |
+| [Training_program_Machine_learning](https://github.com/ShubhamDeshmuk-h/Training_program_Machine_learning) | 📚 ML learnings from internship |
+| [Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text) | 🎙️ Transcribes speech to text using browser speech API |
+| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | 🛡️ Python port scanning script |
+| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
+| [DSA_practice](https://github.com/ShubhamDeshmuk-h/DSA_practice) | 💡 DSA questions in C++, Java, Python |
 
-> 🔍 Explore more on my [GitHub Repositories](https://github.com/shubham-deshmuk-h?tab=repositories)
+> 🔍 Explore more on my [GitHub Repositories](https://github.com/ShubhamDeshmuk-h?tab=repositories)
 
 ---
 
@@ -76,9 +76,9 @@
 
 ## 📈 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shubham-deshmuk-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-deshmuk-h&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-deshmuk-h&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&theme=radical&hide_border=false&layout=compact)
 
 ---
 
@@ -90,6 +90,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shubham-deshmuk-h&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShubhamDeshmuk-h&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly crafted by Shubham Deshmukh 🧠🚀 -->
