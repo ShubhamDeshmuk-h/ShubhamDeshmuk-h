@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shubham Deshmukh!
 
-**Vice President of Unity Club | Software Developer | Designer | AI/ML Enthusiast | FlutterFlow Builder**
+**Software Developer Engineer | Security Reasearcher | AI/ML Enthusiast | Web App Development | Vice President of Unity Club**
 
 🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm also a self-taught designer and proud contributor to several hackathons and open-source events.
 
