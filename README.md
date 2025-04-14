@@ -17,7 +17,7 @@ I'm currently working on projects involving voice assistants, AI-based recommend
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postman](https://img.shields.io/badge/Node.js-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps-%23FF6F00.svg?style=for-the-badge&logo=google-maps&logoColor=white) 
 ![Camera API](https://img.shields.io/badge/Camera%20API-6A1B9A?style=for-the-badge&logo=apacherocketmq&logoColor=white) 
