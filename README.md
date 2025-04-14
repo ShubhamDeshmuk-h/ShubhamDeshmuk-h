@@ -11,8 +11,7 @@
 - 🥇 **1st Prize** at MET Institute-Level Project Competition for `TourSmart` – Smart Travel Assistant App
 - 🏆 **Finalist** at International Hackathon `Hack2Hire` with AI-based Recommendation System for Freelancers
 - 🎯 Selected for Final Round in State-Level Project Competition
-- 🧑‍🎓 Completed AI/ML Internship by **AICTE + Google for Developers + Eduskill**
-- 🎨 Winner of 5+ Design Competitions using Canva, Photoshop, Illustrator
+- 🎨 Winner of 5+ Hackathon Competitions
 - 📌 Organized and Designed Events for Unity Club, MET IGNITE, and Engineers’ Week
 - 🧾 Contributed to "Management Manuscripts" with articles on AI and India as a Global IT Hub
 
@@ -29,19 +28,18 @@
 **Frontend & UI Tools**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%2300BFA6.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300C6FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 **Database & Cloud**  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **AI/ML & Tools**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -50,15 +48,15 @@
 
 | Project | Description |
 |--------|-------------|
-| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
 | [ai-code-helper](https://github.com/ShubhamDeshmuk-h/ai-code-helper) | 🤖 AI tool to help developers generate code |
-| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
 | [Stegno_project](https://github.com/ShubhamDeshmuk-h/Stegno_project) | 🔐 Hide text in images using Python steganography |
+| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
 | [Training_program_Machine_learning](https://github.com/ShubhamDeshmuk-h/Training_program_Machine_learning) | 📚 ML learnings from internship |
 | [Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text) | 🎙️ Transcribes speech to text using browser speech API |
-| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | 🛡️ Python port scanning script |
-| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
+| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | 🛡️ Python port scanning script 
 | [DSA_practice](https://github.com/ShubhamDeshmuk-h/DSA_practice) | 💡 DSA questions in C++, Java, Python |
+| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
+| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
 
 > 🔍 Explore more on my [GitHub Repositories](https://github.com/ShubhamDeshmuk-h?tab=repositories)
 
@@ -66,11 +64,15 @@
 
 ## 📜 Certifications
 
-- **AI/ML Virtual Internship** by AICTE + Google + Eduskill  
-- **Canva for Graphic Design Productivity** – Udemy  
-- **Hacktoberfest Contributor – 2024**  
-- **TensorFlow Lite Model Maker & API-based Learning**  
-- **Cybersecurity ML Rule-based Model Project**  
+- **Programming, Data Structures and Algorithms Using Python** – NPTEL  
+- **GDG Competitive Programming** – United Latino Students Association  
+- **AWS Academy Graduate – AWS Academy Cloud Foundations** – Amazon Web Services (AWS)  
+- **Cyber Security** – Skill India Digital Hub (Tech Mahindra)  
+- **Cybersecurity Fundamentals** – IBM  
+- **Fortinet Certified Fundamentals in Cybersecurity** – Fortinet *(Valid till Feb 2027)*  
+- **Introduction to Cybersecurity** – Cisco  
+- **Linux 100: Fundamentals** – TCM Security  
+- **Programming 100: Fundamentals** – TCM Security  
 
 ---
 
