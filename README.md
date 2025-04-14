@@ -84,9 +84,8 @@
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamdeshmukh-ioe)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh-profile/)
 📧 Email: shubhamd.it_ioe@bkc.met.edu  
-📱 Phone: +91 7030368111
 
 ---
 
