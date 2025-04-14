@@ -1,38 +1,95 @@
-# 💫 About Me:
-👋 Hey there! I'm **Shubham Deshmukh**, an enthusiastic Information Technology student and passionate developer. I specialize in creating smart, user-focused solutions — from intuitive mobile apps to intelligent AI-driven platforms.
+# 👋 Hey, I'm Shubham Deshmukh!
 
-I'm currently working on projects involving voice assistants, AI-based recommendation systems, and smart travel solutions like **TourSmart**. With a strong design background, I’ve led creative design work for clubs, magazines, and hackathons. I'm always eager to learn, build, and innovate!<br><br>🚀 Let's innovate together and make tech meaningful!
+**Vice President of Unity Club | Software Developer | Designer | AI/ML Enthusiast | FlutterFlow Builder**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh-02a746263/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamd.it_ioe@bkc.met.edu)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Google Maps API](https://img.shields.io/badge/Google%20Maps-%23FF6F00.svg?style=for-the-badge&logo=google-maps&logoColor=white) 
-![Camera API](https://img.shields.io/badge/Camera%20API-6A1B9A?style=for-the-badge&logo=apacherocketmq&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubham-Deshmukh-ioe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Deshmukh-ioe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Deshmukhioe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm also a self-taught designer and proud contributor to several hackathons and open-source events.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shubham-Deshmukh-ioe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Built by ChatGPT for Shubham Deshmukh 🚀 -->
+## 🏆 Achievements & Highlights:
+
+- 🥇 **1st Prize** at MET Institute-Level Project Competition for `TourSmart` – Smart Travel Assistant App
+- 🏆 **Finalist** at International Hackathon `Hack2Hire` with AI-based Recommendation System for Freelancers
+- 🎯 Selected for Final Round in State-Level Project Competition
+- 🧑‍🎓 Completed AI/ML Internship by **AICTE + Google for Developers + Eduskill**
+- 🎨 Winner of 5+ Design Competitions using Canva, Photoshop, Illustrator
+- 📌 Organized and Designed Events for Unity Club, MET IGNITE, and Engineers’ Week
+- 🧾 Contributed to "Management Manuscripts" with articles on AI and India as a Global IT Hub
+
+---
+
+## 🧠 Tech Stack
+
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+**Frontend & UI Tools**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%2300BFA6.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%2300C6FF.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+**Database & Cloud**  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**AI/ML & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📁 Notable Repositories
+
+| Project | Description |
+|--------|-------------|
+| [TourSmart](https://github.com/shubham-deshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
+| [ai-code-helper](https://github.com/shubham-deshmuk-h/ai-code-helper) | 🤖 AI tool to help developers generate code |
+| [portfolio](https://github.com/shubham-deshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
+| [Stegno_project](https://github.com/shubham-deshmuk-h/Stegno_project) | 🔐 Hide text in images using Python steganography |
+| [Training_program_Machine_learning](https://github.com/shubham-deshmuk-h/Training_program_Machine_learning) | 📚 ML learnings from internship |
+| [Speech2Text](https://github.com/shubham-deshmuk-h/Speech2Text) | 🎙️ Transcribes speech to text using browser speech API |
+| [portscanner](https://github.com/shubham-deshmuk-h/portscanner) | 🛡️ Python port scanning script |
+| [ML-for-cyber-attract-detection-using-rules](https://github.com/shubham-deshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
+| [DSA_practice](https://github.com/shubham-deshmuk-h/DSA_practice) | 💡 DSA questions in C++, Java, Python |
+
+> 🔍 Explore more on my [GitHub Repositories](https://github.com/shubham-deshmuk-h?tab=repositories)
+
+---
+
+## 📜 Certifications
+
+- **AI/ML Virtual Internship** by AICTE + Google + Eduskill  
+- **Canva for Graphic Design Productivity** – Udemy  
+- **Hacktoberfest Contributor – 2024**  
+- **TensorFlow Lite Model Maker & API-based Learning**  
+- **Cybersecurity ML Rule-based Model Project**  
+
+---
+
+## 📈 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=shubham-deshmuk-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-deshmuk-h&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-deshmuk-h&theme=radical&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamdeshmukh-ioe)  
+📧 Email: shubhamd.it_ioe@bkc.met.edu  
+📱 Phone: +91 7030368111
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=shubham-deshmuk-h&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly crafted by Shubham Deshmukh 🧠🚀 -->
