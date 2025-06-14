@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Shubham Deshmukh!
 
-**Software Developer Engineer | Security Reasearcher | AI/ML Enthusiast | Web App Development | Vice President of Unity Club**
+**Software Developer Engineer | Full Stack Webdeveloper | Web App Development | Backend Engineer**
 
-🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm also a self-taught designer and proud contributor to several hackathons and open-source events.
+🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm  proud contributor to several hackathons and open-source events. 
 
 ---
 
@@ -10,10 +10,8 @@
 
 - 🥇 **1st Prize** at MET Institute-Level Project Competition for `TourSmart` – Smart Travel Assistant App
 - 🏆 **Finalist** at International Hackathon `Hack2Hire` with AI-based Recommendation System for Freelancers
-- 🎯 Selected for Final Round in State-Level Project Competition
 - 🎨 Winner of 5+ Hackathon Competitions
 - 📌 Organized and Designed Events for Unity Club, MET IGNITE, and Engineers’ Week
-- 🧾 Contributed to "Management Manuscripts" with articles on AI and India as a Global IT Hub
 
 ---
 
@@ -45,21 +43,22 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/gitHub-%23F05033.svg?style=for-the-badge&logo=gitHub&logoColor=white)
+![Docket](https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
 ---
 
 ## 📁 Notable Repositories
 
 | Project | Description |
 |--------|-------------|
-| [ai-code-helper](https://github.com/ShubhamDeshmuk-h/ai-code-helper) | 🤖 AI tool to help developers generate code |
-| [Stegno_project](https://github.com/ShubhamDeshmuk-h/Stegno_project) | 🔐 Hide text in images using Python steganography |
-| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | 🧠 Rule-based cyberattack detection |
-| [Training_program_Machine_learning](https://github.com/ShubhamDeshmuk-h/Training_program_Machine_learning) | 📚 ML learnings from internship |
-| [Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text) | 🎙️ Transcribes speech to text using browser speech API |
-| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | 🛡️ Python port scanning script 
-| [DSA_practice](https://github.com/ShubhamDeshmuk-h/DSA_practice) | 💡 DSA questions in C++, Java, Python |
-| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | ✈️ A smart travel companion with GPS, image recognition, speech-to-text |
-| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | 🧾 Personal Portfolio Website |
+| [Stegno_project](https://github.com/ShubhamDeshmuk-h/Stegno_project) | Hide text in images using Python steganography |
+| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | Rule-based cyberattack detection |
+| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | Python port scanning script |
+| [ Placement_talk](https://github.com/ShubhamDeshmuk-h/Placement_talk) | MERN Project for Engineering student for sharing and experiencing the placement growth of the peer students |
+| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | A smart travel companion with GPS, image recognition, speech-to-text |
+| [DSA_practice](https://github.com/ShubhamDeshmuk-h/DSA_practice) | DSA questions in C++, Java, Python |
+| [Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text) | Transcribes speech to text using browser speech API |
+| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | Personal Portfolio Website |
 
 > 🔍 Explore more on my [GitHub Repositories](https://github.com/ShubhamDeshmuk-h?tab=repositories)
 
@@ -70,10 +69,6 @@
 - **Programming, Data Structures and Algorithms Using Python** – NPTEL  
 - **GDG Competitive Programming** – United Latino Students Association  
 - **AWS Academy Graduate – AWS Academy Cloud Foundations** – Amazon Web Services (AWS)  
-- **Cyber Security** – Skill India Digital Hub (Tech Mahindra)  
-- **Cybersecurity Fundamentals** – IBM  
-- **Fortinet Certified Fundamentals in Cybersecurity** – Fortinet *(Valid till Feb 2027)*  
-- **Introduction to Cybersecurity** – Cisco  
 - **Linux 100: Fundamentals** – TCM Security  
 - **Programming 100: Fundamentals** – TCM Security  
 
