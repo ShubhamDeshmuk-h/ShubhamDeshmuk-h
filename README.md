@@ -19,31 +19,37 @@
 
 **Languages & Backend**  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CPP](https://img.shields.io/badge/cpp-%233776AB.svg?style=for-the-badge&logo=CPP&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-%23F05033.svg?style=for-the-badge&logo=Expressjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Nodejs-%23F05033.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **Frontend & UI Tools**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%A7B24A26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%13E31F26.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%23E34A26.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300C6FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 **Database & Cloud**  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%214ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-%232ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-%23F7AE1F.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
 
 
 
 **AI/ML & Tools**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/gitHub-%23F05033.svg?style=for-the-badge&logo=gitHub&logoColor=white)
-![Docket](https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23Fd7626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23a05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/gitHub-%23ea5033.svg?style=for-the-badge&logo=gitHub&logoColor=white)
+![Docket](https://img.shields.io/badge/Docker-%42F01231.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 ---
 
