@@ -79,6 +79,8 @@
 - **Programming 100: Fundamentals** – TCM Security  
 
 ---
+## Learning about Web Security
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4078603" style='border:none;'></iframe>
 
 ## 📈 GitHub Stats:
 
