@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Shubham Deshmukh!
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ShubhamDeshmuk-h&label=Profile%20views&color=00308F&style=flat" alt="ShubhamDeshmukh" /> </p>
 **Software Developer Engineer | Full Stack Webdeveloper | Web App Development | Backend Engineer**
 
 🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm  proud contributor to several hackathons and open-source events. 
