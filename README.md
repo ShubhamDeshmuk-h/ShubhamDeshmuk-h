@@ -83,10 +83,11 @@
 ![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4078603)
 
 ## 📈 GitHub Stats:
+<a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShubhamDeshmuk-h's GitHub stats" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&theme=radical&hide_border=false&layout=compact)
+<a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ShubhamDeshmuk-h" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
