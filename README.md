@@ -32,8 +32,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%13E31F26.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23E34A26.svg?style=for-the-badge&logo=React&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%2300C6FF.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
 
 **Database & Cloud**  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,7 +44,6 @@
 
 
 **AI/ML & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23Fd7626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23a05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/gitHub-%23ea5033.svg?style=for-the-badge&logo=gitHub&logoColor=white)
@@ -78,9 +76,6 @@
 - **Linux 100: Fundamentals** – TCM Security  
 - **Programming 100: Fundamentals** – TCM Security  
 
----
-## Learning about Web Security
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4078603)
 
 ## 📈 GitHub Stats:
 <a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShubhamDeshmuk-h's GitHub stats" /></a>
@@ -88,6 +83,8 @@
 <a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ShubhamDeshmuk-h" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamDeshmuk-h" alt="ShubhamDeshmuk-h" /></a> </p>
 
 ---
 
