@@ -1,7 +1,7 @@
 # 🚀 Shubham Deshmukh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Development+Engineer;Full+Stack+Web+Developer;Backend+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Development+Enthusiast;Full+Stack+Web+Developer;Backend+Engineer+Enthusiast;AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
