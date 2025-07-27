@@ -1,100 +1,205 @@
-# 👋 Hey, I'm Shubham Deshmukh!
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ShubhamDeshmuk-h&label=Profile%20views&color=00308F&style=flat" alt="ShubhamDeshmukh" /> </p>
-**Software Developer Engineer | Full Stack Webdeveloper | Web App Development | Backend Engineer**
+# 🚀 Shubham Deshmukh
 
-🚀 Welcome to my GitHub space! I'm a passionate tech explorer currently pursuing **Information Technology** at MET Institute of Engineering, Nashik. I love transforming creative ideas into functional projects — from smart travel apps to AI recommendation systems, I enjoy working across full-stack and design. I'm  proud contributor to several hackathons and open-source events. 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Development+Engineer;Full+Stack+Web+Developer;Backend+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
 
----
-
-## 🏆 Achievements & Highlights:
-
-- 🥇 **1st Prize** at MET Institute-Level Project Competition for `TourSmart` – Smart Travel Assistant App
-- 🏆 **Finalist** at International Hackathon `Hack2Hire` with AI-based Recommendation System for Freelancers
-- 🎨 Winner of 5+ Hackathon Competitions
-- 📌 Organized and Designed Events for Unity Club, MET IGNITE, and Engineers’ Week
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamDeshmuk-h&label=Profile%20views&color=00308F&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🎯 About Me
 
-**Languages & Backend**  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![CPP](https://img.shields.io/badge/cpp-%233776AB.svg?style=for-the-badge&logo=CPP&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Expressjs-%23F05033.svg?style=for-the-badge&logo=Expressjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Nodejs-%23F05033.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+> 🎓 **Information Technology Student** at MET Institute of Engineering, Nashik  
+> 💡 **Passionate Tech Explorer** transforming creative ideas into functional solutions  
+> 🏆 **Hackathon Winner** with 5+ competition victories  
+> 🌟 **Open Source Contributor** dedicated to community-driven development
 
-**Frontend & UI Tools**  
-![HTML5](https://img.shields.io/badge/html5-%A7B24A26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%13E31F26.svg?style=for-the-badge&logo=Angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%23E34A26.svg?style=for-the-badge&logo=React&logoColor=white)
-
-
-**Database & Cloud**  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%214ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-%232ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-%23F7AE1F.svg?style=for-the-badge&logo=AWS&logoColor=white)
-
-
-
-
-**AI/ML & Tools**  
-![Jupyter](https://img.shields.io/badge/jupyter-%23Fd7626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23a05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/gitHub-%23ea5033.svg?style=for-the-badge&logo=gitHub&logoColor=white)
-![Docket](https://img.shields.io/badge/Docker-%42F01231.svg?style=for-the-badge&logo=Docker&logoColor=white)
+I specialize in full-stack development, AI/ML applications, and backend engineering. From smart travel apps to AI recommendation systems, I love building impactful solutions that make a difference.
 
 ---
 
-## 📁 Notable Repositories
+## 🏆 Achievements & Recognition
 
-| Project | Description |
-|--------|-------------|
-| [Stegno_project](https://github.com/ShubhamDeshmuk-h/Stegno_project) | Hide text in images using Python steganography |
-| [ML-for-cyber-attract-detection-using-rules](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules) | Rule-based cyberattack detection |
-| [portscanner](https://github.com/ShubhamDeshmuk-h/portscanner) | Python port scanning script |
-| [ Placement_talk](https://github.com/ShubhamDeshmuk-h/Placement_talk) | MERN Project for Engineering student for sharing and experiencing the placement growth of the peer students |
-| [TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart) | A smart travel companion with GPS, image recognition, speech-to-text |
-| [DSA_practice](https://github.com/ShubhamDeshmuk-h/DSA_practice) | DSA questions in C++, Java, Python |
-| [Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text) | Transcribes speech to text using browser speech API |
-| [portfolio](https://github.com/ShubhamDeshmuk-h/portfolio) | Personal Portfolio Website |
+<table>
+<tr>
+<td width="50%">
 
-> 🔍 Explore more on my [GitHub Repositories](https://github.com/ShubhamDeshmuk-h?tab=repositories)
+### 🥇 Competition Wins
+- **1st Prize** - MET Institute Project Competition  
+  *TourSmart: Smart Travel Assistant App*
+- **Finalist** - International Hackathon `Hack2Hire`  
+  *AI-based Recommendation System for Freelancers*
+- **5+ Hackathon Victories** across various competitions
+
+</td>
+<td width="50%">
+
+### 🎨 Leadership & Events
+- **Event Organizer & Designer**
+  - Unity Club, MET IGNITE
+  - Engineers' Week
+- **Community Contributor**
+  - Open-source projects
+  - Technical workshops
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI/ML & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Award-Winning Projects
+**[TourSmart](https://github.com/ShubhamDeshmuk-h/TourSmart)**  
+🥇 1st Prize Winner  
+*Smart travel companion with GPS, image recognition, and speech-to-text capabilities*
+
+**[Placement Talk](https://github.com/ShubhamDeshmuk-h/Placement_talk)**  
+*MERN stack platform for engineering students to share placement experiences*
+
+</td>
+<td width="50%">
+
+### 🔐 Security & AI Projects
+**[ML Cyber Attack Detection](https://github.com/ShubhamDeshmuk-h/ML-for-cyber-attract-detection-using-rules)**  
+*Rule-based machine learning system for cybersecurity*
+
+**[Steganography Project](https://github.com/ShubhamDeshmuk-h/Stegno_project)**  
+*Python-based text hiding in images using steganography*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ Utility Tools
+**[Port Scanner](https://github.com/ShubhamDeshmuk-h/portscanner)**  
+*Efficient Python port scanning utility*
+
+**[Speech2Text](https://github.com/ShubhamDeshmuk-h/Speech2Text)**  
+*Browser-based speech transcription using Web Speech API*
+
+</td>
+<td width="50%">
+
+### 📚 Learning Resources
+**[DSA Practice](https://github.com/ShubhamDeshmuk-h/DSA_practice)**  
+*Comprehensive DSA solutions in C++, Java, and Python*
+
+**[Portfolio Website](https://github.com/ShubhamDeshmuk-h/portfolio)**  
+*Personal portfolio showcasing projects and skills*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/ShubhamDeshmuk-h?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+</div>
 
 ---
 
 ## 📜 Certifications
 
-- **Programming, Data Structures and Algorithms Using Python** – NPTEL  
-- **GDG Competitive Programming** – United Latino Students Association  
-- **AWS Academy Graduate – AWS Academy Cloud Foundations** – Amazon Web Services (AWS)  
-- **Linux 100: Fundamentals** – TCM Security  
-- **Programming 100: Fundamentals** – TCM Security  
+<div align="center">
 
+| Certification | Issuer |
+|:-------------:|:------:|
+| **Programming, Data Structures and Algorithms Using Python** | NPTEL |
+| **GDG Competitive Programming** | United Latino Students Association |
+| **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services |
+| **Linux 100: Fundamentals** | TCM Security |
+| **Programming 100: Fundamentals** | TCM Security |
 
-## 📈 GitHub Stats:
-<a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShubhamDeshmuk-h's GitHub stats" /></a>
-
-<a href="http://www.github.com/ShubhamDeshmuk-h"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ShubhamDeshmuk-h" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamDeshmuk-h" alt="ShubhamDeshmuk-h" /></a> </p>
+</div>
 
 ---
 
-## 🌐 Connect with Me:
+## 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh-profile/)
-📧 Email: shubhamd.it_ioe@bkc.met.edu  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamDeshmuk-h&show_icons=true&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDeshmuk-h&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDeshmuk-h&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamDeshmuk-h&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ShubhamDeshmuk-h&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Let's Connect
 
-<!-- Proudly crafted by Shubham Deshmukh 🧠🚀 -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-deshmukh-profile/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamd.it_ioe@bkc.met.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamDeshmuk-h)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/ShubhamDeshmuk-h">Shubham Deshmukh</a> | Built with ❤️ and lots of ☕</sub>
+</div>
