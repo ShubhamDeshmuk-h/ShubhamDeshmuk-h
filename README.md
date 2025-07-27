@@ -22,10 +22,10 @@
 
 > 🎓 **Information Technology Student** at MET Institute of Engineering, Nashik  
 > 💡 **Passionate Tech Explorer** transforming creative ideas into functional solutions  
-> 🏆 **Hackathon Winner** with 5+ competition victories  
+> 🏆 **Hackathon Finalist** with 5+ competition  
 > 🌟 **Open Source Contributor** dedicated to community-driven development
 
-I specialize in full-stack development, AI/ML applications, and backend engineering. From smart travel apps to AI recommendation systems, I love building impactful solutions that make a difference.
+I specialize in full-stack development, AI/ML applications, and backend engineering. From smart apps to AI recommendation systems, I love building impactful solutions that make a difference and solves real world problem.
 
 ---
 
