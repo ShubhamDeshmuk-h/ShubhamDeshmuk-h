@@ -22,40 +22,11 @@
 
 > 🎓 **Information Technology Student** at MET Institute of Engineering, Nashik  
 > 💡 **Passionate Tech Explorer** transforming creative ideas into functional solutions  
-> 🏆 **Hackathon Finalist** with 5+ competition  
 > 🌟 **Open Source Contributor** dedicated to community-driven development
 
 I specialize in full-stack development, AI/ML applications, and backend engineering. From smart apps to AI recommendation systems, I love building impactful solutions that make a difference and solves real world problem.
 
----
 
-## 🏆 Achievements & Recognition
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🥇 Competition Wins
-- **1st Prize** - MET Institute Project Competition  
-  *TourSmart: Smart Travel Assistant App*
-- **Finalist** - International Hackathon `Hack2Hire`  
-  *AI-based Recommendation System for Freelancers*
-- **5+ Hackathon Victories** across various competitions
-
-</td>
-<td width="50%">
-
-### 🎨 Leadership & Events
-- **Event Organizer & Designer**
-  - Unity Club, MET IGNITE
-  - Engineers' Week
-- **Community Contributor**
-  - Open-source projects
-  - Technical workshops
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -167,19 +138,7 @@ I specialize in full-stack development, AI/ML applications, and backend engineer
 
 ---
 
-## 📜 Certifications
 
-<div align="center">
-
-| Certification | Issuer |
-|:-------------:|:------:|
-| **Programming, Data Structures and Algorithms Using Python** | NPTEL |
-| **GDG Competitive Programming** | United Latino Students Association |
-| **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services |
-| **Linux 100: Fundamentals** | TCM Security |
-| **Programming 100: Fundamentals** | TCM Security |
-
-</div>
 
 ---
 
